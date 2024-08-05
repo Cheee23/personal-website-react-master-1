@@ -15,7 +15,7 @@ const IndexPage = () => {
         <UserDescription>
           <div>
             <p>Hello there, welcome to my portfolio. I am a Junior developer, Like Play more games and Traveling.</p>
-            <DownloadButton href="https://github.com/rashmiap/personal-website-react/raw/master/RashmiAp-Resume.pdf" download title="Resume">
+            <DownloadButton href="https://github.com/rashmiap/personal-website-react/raw/master/cv pice.pdf" download title="Resume">
               Download Resume
             </DownloadButton>
           </div>

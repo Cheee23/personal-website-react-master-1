@@ -49,7 +49,7 @@ const Experience = () => (
           {grad.map((item) => (
             <div key={item.id}>
               <p>
-                Graduated with a {item.degree} {item.major} from {item.name} <br />
+                Graduated with a {item.degree} Majors {item.major} from {item.name} <br />
                 {item.dated}
               </p>
             </div>

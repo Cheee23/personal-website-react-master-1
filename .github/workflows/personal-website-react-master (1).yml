@@ -37,5 +37,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.personal-website-react-master (1)_TOKEN }}
+          github_token: ${{ secrets.personal_website_react_master_TOKEN }}
           publish_dir: ./build

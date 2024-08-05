@@ -1,9 +1,9 @@
 export default [
   {
     id: 1,
-    name: "Politecnic Wilmar Bisnis Indonesia",
-    major: "Software Engineer",
-    degree: "Applied Bachelor",
+    name: "SMAN 8 MEDAN",
+    major: "Natural Sciences",
+    degree: "Senior High School",
     dated: "2019 - 2021",
   },
 ];
